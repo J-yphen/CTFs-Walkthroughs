@@ -15,7 +15,7 @@ Nmap result : [here](./intitial-scan.txt)
 we found robots.txt,
 - Looking this file we think, *password* might be : "Wubbalubbadubdub"
 - Found "/login.php" page from nikto output
-	![](./screenshots/nikto.png)
+![](./screenshots/nikto.png)
 
 Enumeration result : [here](./enum-initial.txt)
 
