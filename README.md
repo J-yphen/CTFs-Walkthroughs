@@ -1,2 +1,2 @@
-# THM-CTFs
-Notes and brief walkthrough for TryHackMe machines solved by me.
+# CTFs Walkthrough
+Notes and brief walkthrough of capture the flag challenges solved by me.
